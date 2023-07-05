@@ -9,7 +9,7 @@ metadata:
 spec:
  containers:
  - name: webcon
-   image: sudarshanlnx/farmfresh:v1
+   image: vignesh2605/web1:v2
    imagePullPolicy: Always
    ports:
    - containerPort: 80
